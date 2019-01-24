@@ -1,4 +1,3 @@
-
 # Awesome Ethereum
 
 Metalist of Curations in Ethereum Ecosystem
@@ -231,7 +230,7 @@ Resource list
 
 
 
-
+# Powered By    [![Quiknode](https://cdn-images-1.medium.com/fit/c/24/24/1*SbetZumUei-QzYqyUEz1Ng.png)](https://quiknode.io/)
 
 
 
